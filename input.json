@@ -1,0 +1,13 @@
+{
+  "jurisdictions": [
+    "DE",
+    "CO"
+  ],
+  "professionQuery": "nursing",
+  "activeOnly": true,
+  "disciplinaryOnly": false,
+  "maxResults": 10,
+  "proxyConfiguration": {
+    "useApifyProxy": false
+  }
+}
